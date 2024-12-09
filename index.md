@@ -2,6 +2,10 @@
 ## ee
 dsfakjfdadsfalfjdkal dkljlkfda fdjsakjjkdsafjlkadsfj
 dsfakljaldsfkj adkfsjladfksj dfaskjljkfdasl kadfls
+- [ ] be good
+- [ ] dont follow the watcher cause its creator is a ehem
+- [ ] ehe
+its a gigi gg moment
 # eae
 ```
 local sandwhich = Instance.new("Part")
